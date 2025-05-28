@@ -1,0 +1,7 @@
+echo "# agrinho-projeto-p5js-colheita-sustent-vel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GustavoCordazzo/agrinho-projeto-p5js-colheita-sustent-vel.git
+git push -u origin main
