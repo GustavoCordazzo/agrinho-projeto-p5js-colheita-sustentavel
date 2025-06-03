@@ -40,22 +40,13 @@ Importância da agricultura saudável
 
 Responsabilidade ambiental
 
-🌟 Próximas Funcionalidades (futuro)
-Combate a pragas com soluções naturais
-
-Sistema de pontuação por boas práticas
-
-Variação de clima (chuva, sol, seca)
-
-Feedback visual e sonoro
-
-Modo desafio (tempo, tarefas)
-
-📸 Captura de Tela (exemplo)
-Adicione aqui uma imagem do jogo em execução, se possível.
-
 👩‍🏫 Público-alvo
 Alunos do ensino fundamental e médio, professores de ciências, projetos educacionais ligados ao meio ambiente, tecnologia e agricultura.
 
 📝 Licença
-Este projeto é de uso livre para fins educacionais. Compartilhe e adapte com créditos ao autor.
+Este projeto é de uso livre para fins educacionais.
+
+🛠️Prompts usados
+crie um jogo no p5.js sobre a conexão campo-cidade com a ideia de uma colheita sustentável.
+
+
